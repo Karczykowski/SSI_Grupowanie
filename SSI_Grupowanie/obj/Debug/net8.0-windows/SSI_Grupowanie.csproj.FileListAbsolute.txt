@@ -16,3 +16,21 @@ C:\Users\Lenovo\Desktop\SSI_Grupowanie\SSI_Grupowanie\SSI_Grupowanie\obj\Debug\n
 C:\Users\Lenovo\Desktop\SSI_Grupowanie\SSI_Grupowanie\SSI_Grupowanie\obj\Debug\net8.0-windows\SSI_Grupowanie.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\SSI_Grupowanie\SSI_Grupowanie\SSI_Grupowanie\obj\Debug\net8.0-windows\ref\SSI_Grupowanie.dll
 C:\Users\Lenovo\Desktop\SSI_Grupowanie\SSI_Grupowanie\SSI_Grupowanie\bin\Debug\net8.0-windows\spiralka.csv
+C:\Users\mkarc\Desktop\SSI Szypul\SSI_Grupowanie\SSI_Grupowanie\bin\Debug\net8.0-windows\spiralka.csv
+C:\Users\mkarc\Desktop\SSI Szypul\SSI_Grupowanie\SSI_Grupowanie\bin\Debug\net8.0-windows\SSI_Grupowanie.exe
+C:\Users\mkarc\Desktop\SSI Szypul\SSI_Grupowanie\SSI_Grupowanie\bin\Debug\net8.0-windows\SSI_Grupowanie.deps.json
+C:\Users\mkarc\Desktop\SSI Szypul\SSI_Grupowanie\SSI_Grupowanie\bin\Debug\net8.0-windows\SSI_Grupowanie.runtimeconfig.json
+C:\Users\mkarc\Desktop\SSI Szypul\SSI_Grupowanie\SSI_Grupowanie\bin\Debug\net8.0-windows\SSI_Grupowanie.dll
+C:\Users\mkarc\Desktop\SSI Szypul\SSI_Grupowanie\SSI_Grupowanie\bin\Debug\net8.0-windows\SSI_Grupowanie.pdb
+C:\Users\mkarc\Desktop\SSI Szypul\SSI_Grupowanie\SSI_Grupowanie\obj\Debug\net8.0-windows\SSI_Grupowanie.Form1.resources
+C:\Users\mkarc\Desktop\SSI Szypul\SSI_Grupowanie\SSI_Grupowanie\obj\Debug\net8.0-windows\SSI_Grupowanie.csproj.GenerateResource.cache
+C:\Users\mkarc\Desktop\SSI Szypul\SSI_Grupowanie\SSI_Grupowanie\obj\Debug\net8.0-windows\SSI_Grupowanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkarc\Desktop\SSI Szypul\SSI_Grupowanie\SSI_Grupowanie\obj\Debug\net8.0-windows\SSI_Grupowanie.AssemblyInfoInputs.cache
+C:\Users\mkarc\Desktop\SSI Szypul\SSI_Grupowanie\SSI_Grupowanie\obj\Debug\net8.0-windows\SSI_Grupowanie.AssemblyInfo.cs
+C:\Users\mkarc\Desktop\SSI Szypul\SSI_Grupowanie\SSI_Grupowanie\obj\Debug\net8.0-windows\SSI_Grupowanie.csproj.CoreCompileInputs.cache
+C:\Users\mkarc\Desktop\SSI Szypul\SSI_Grupowanie\SSI_Grupowanie\obj\Debug\net8.0-windows\SSI_Grupowanie.sourcelink.json
+C:\Users\mkarc\Desktop\SSI Szypul\SSI_Grupowanie\SSI_Grupowanie\obj\Debug\net8.0-windows\SSI_Grupowanie.dll
+C:\Users\mkarc\Desktop\SSI Szypul\SSI_Grupowanie\SSI_Grupowanie\obj\Debug\net8.0-windows\refint\SSI_Grupowanie.dll
+C:\Users\mkarc\Desktop\SSI Szypul\SSI_Grupowanie\SSI_Grupowanie\obj\Debug\net8.0-windows\SSI_Grupowanie.pdb
+C:\Users\mkarc\Desktop\SSI Szypul\SSI_Grupowanie\SSI_Grupowanie\obj\Debug\net8.0-windows\SSI_Grupowanie.genruntimeconfig.cache
+C:\Users\mkarc\Desktop\SSI Szypul\SSI_Grupowanie\SSI_Grupowanie\obj\Debug\net8.0-windows\ref\SSI_Grupowanie.dll
