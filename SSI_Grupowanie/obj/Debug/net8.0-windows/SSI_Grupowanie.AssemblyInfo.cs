@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SSI_Grupowanie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2264a440d129d29bbe84bae0305a642055b1169")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82011aabb1eee9836b3a97ee8f56000b83dd5fde")]
 [assembly: System.Reflection.AssemblyProductAttribute("SSI_Grupowanie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SSI_Grupowanie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

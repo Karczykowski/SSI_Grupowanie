@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\mkarc\\Desktop\\SSI Szypul\\SSI_Grupowanie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{264C04CE-5861-4D37-BEF7-9493BCAC59E1}|SSI_Grupowanie\\SSI_Grupowanie.csproj|c:\\users\\mkarc\\desktop\\ssi szypul\\ssi_grupowanie\\ssi_grupowanie\\algorytm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264C04CE-5861-4D37-BEF7-9493BCAC59E1}|SSI_Grupowanie\\SSI_Grupowanie.csproj|solutionrelative:ssi_grupowanie\\algorytm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{264C04CE-5861-4D37-BEF7-9493BCAC59E1}|SSI_Grupowanie\\SSI_Grupowanie.csproj|c:\\users\\mkarc\\desktop\\ssi szypul\\ssi_grupowanie\\ssi_grupowanie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{264C04CE-5861-4D37-BEF7-9493BCAC59E1}|SSI_Grupowanie\\SSI_Grupowanie.csproj|C:\\Users\\mkarc\\Desktop\\SSI Szypul\\SSI_Grupowanie\\ssi_grupowanie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{264C04CE-5861-4D37-BEF7-9493BCAC59E1}|SSI_Grupowanie\\SSI_Grupowanie.csproj|solutionrelative:ssi_grupowanie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{264C04CE-5861-4D37-BEF7-9493BCAC59E1}|SSI_Grupowanie\\SSI_Grupowanie.csproj|c:\\users\\mkarc\\desktop\\ssi szypul\\ssi_grupowanie\\ssi_grupowanie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264C04CE-5861-4D37-BEF7-9493BCAC59E1}|SSI_Grupowanie\\SSI_Grupowanie.csproj|solutionrelative:ssi_grupowanie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264C04CE-5861-4D37-BEF7-9493BCAC59E1}|SSI_Grupowanie\\SSI_Grupowanie.csproj|c:\\users\\mkarc\\desktop\\ssi szypul\\ssi_grupowanie\\ssi_grupowanie\\algorytm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264C04CE-5861-4D37-BEF7-9493BCAC59E1}|SSI_Grupowanie\\SSI_Grupowanie.csproj|solutionrelative:ssi_grupowanie\\algorytm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\mkarc\\Desktop\\SSI Szypul\\SSI_Grupowanie\\SSI_Grupowanie\\Form1.cs",
-              "RelativeDocumentMoniker": "SSI_Grupowanie\\Form1.cs",
-              "ToolTip": "C:\\Users\\mkarc\\Desktop\\SSI Szypul\\SSI_Grupowanie\\SSI_Grupowanie\\Form1.cs",
-              "RelativeToolTip": "SSI_Grupowanie\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T10:44:20.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Algorytm.cs",
               "DocumentMoniker": "C:\\Users\\mkarc\\Desktop\\SSI Szypul\\SSI_Grupowanie\\SSI_Grupowanie\\Algorytm.cs",
               "RelativeDocumentMoniker": "SSI_Grupowanie\\Algorytm.cs",
               "ToolTip": "C:\\Users\\mkarc\\Desktop\\SSI Szypul\\SSI_Grupowanie\\SSI_Grupowanie\\Algorytm.cs",
               "RelativeToolTip": "SSI_Grupowanie\\Algorytm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-11T10:35:08.149Z",
               "EditorCaption": ""
@@ -53,6 +40,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mkarc\\Desktop\\SSI Szypul\\SSI_Grupowanie\\SSI_Grupowanie\\Form1.cs",
+              "RelativeDocumentMoniker": "SSI_Grupowanie\\Form1.cs",
+              "ToolTip": "C:\\Users\\mkarc\\Desktop\\SSI Szypul\\SSI_Grupowanie\\SSI_Grupowanie\\Form1.cs",
+              "RelativeToolTip": "SSI_Grupowanie\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIA2wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T10:44:20.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\mkarc\\Desktop\\SSI Szypul\\SSI_Grupowanie\\SSI_Grupowanie\\Form1.cs",
               "RelativeDocumentMoniker": "SSI_Grupowanie\\Form1.cs",
